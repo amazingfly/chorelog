@@ -1,0 +1,21 @@
+{
+    "chores":{
+        "dishes":{
+            "title":"Dishes",
+            "discription":"do the dishes",
+            "room":"kitchen",
+            "interval":1,
+            "catagory":"crumblies",
+            "priority": 2
+        
+        },
+        "kittyLitter":{
+            "title":"KittyLitter",
+            "description":"scoop the poop",
+            "room":"livingRoom",
+            "interval":7,
+            "catagory":"cat",
+            "priority":4
+        }
+    }
+}
